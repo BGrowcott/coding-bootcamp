@@ -3,7 +3,27 @@
     height: auto;
 }
 
-#email1 {
+.email {
     color: rgb(55, 53, 87);
     background-color: rgb(233, 132, 132);
+}
+
+.github {
+    color: crimson;
+    background-color: rgb(100, 100, 117);
+
+}
+
+.portfolio {
+    color: darkorange;
+    background-color: darkviolet;
+
+}
+
+#intro {
+    background-color: honeydew;
+}
+
+#contactinfo {
+background-color: khaki;
 }
