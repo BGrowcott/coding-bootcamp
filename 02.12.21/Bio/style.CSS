@@ -1,0 +1,9 @@
+#photo {
+    max-width: 30%;
+    height: auto;
+}
+
+#email1 {
+    color: rgb(55, 53, 87);
+    background-color: rgb(233, 132, 132);
+}
